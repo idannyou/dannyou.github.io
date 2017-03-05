@@ -2505,8 +2505,9 @@
 		}
 
 			.spotlight .image img {
-				border-radius: 0;
+				border-radius: 2%;
 				width: 100%;
+				margin: 10px;
 			}
 
 		.spotlight .content {
@@ -2517,6 +2518,15 @@
 			order: 2;
 			max-width: 48em;
 			width: 60%;
+		}
+		.headercontent {
+			text-align: center;
+			padding: 2em 4em 0.1em 4em ;
+			-moz-order: 2;
+			-webkit-order: 2;
+			-ms-order: 2;
+			order: 2;
+			width: 100%;
 		}
 
 		.spotlight:nth-child(2n) {
