@@ -1596,7 +1596,7 @@
 /* Section/Article */
 
 	section.special, article.special {
-		text-align: center;
+		text-align: left;
 	}
 
 	header p {
@@ -3811,4 +3811,12 @@
 
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
+	}
+
+	.face img{
+		margin: 0 auto;
+		margin-bottom: 10px;
+		border-radius: 50%;
+		display: block;
+		width: 250px;
 	}
