@@ -3591,7 +3591,7 @@
 			-ms-order: 1;
 			order: 1;
 			padding-right: 3em;
-			width: 70%;
+			width: 90%;
 		}
 
 			#cta .inner header p {
@@ -3829,4 +3829,12 @@
 		border-radius: 50%;
 		display: block;
 		width: 250px;
+	}
+
+	.schools{
+		list-style: none;
+	}
+
+	.schools img{
+		width: 150px;
 	}
