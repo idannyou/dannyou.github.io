@@ -2379,7 +2379,7 @@
 	}
 
 		.features li {
-			padding: 4em 4em 2em 6em ;
+
 			display: block;
 			position: relative;
 			text-align: left;
@@ -2506,7 +2506,7 @@
 
 			.spotlight .image img {
 				border-radius: 2%;
-				width: 100%;
+				width: 90%;
 				margin: 10px;
 			}
 
@@ -3837,7 +3837,7 @@
 	}
 
 	.schools img{
-		width: 150px;
+		width: 100px;
 	}
 
 	ul.major-icons {
