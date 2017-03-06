@@ -2384,6 +2384,8 @@
 			position: relative;
 			text-align: left;
 			width: 50%;
+			padding-bottom: 10px;
+			font-size: 80px;
 		}
 
 			.features li:nth-child(1) {
@@ -2470,7 +2472,7 @@
 			@media screen and (max-width: 736px) {
 
 				.features li {
-					padding: 3em 0 1em 0 ;
+					padding: 0 0 1em 0 ;
 					background-color: transparent !important;
 					border-top: solid 2px #fff;
 					width: 100%;
