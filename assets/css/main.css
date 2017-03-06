@@ -1616,7 +1616,7 @@
 	}
 
 	header.major {
-		margin: 0 0 3.5em 0;
+		margin: 0 0 0 0;
 	}
 
 		header.major h2, header.major h3, header.major h4, header.major h5, header.major h6 {
@@ -3839,3 +3839,12 @@
 	.schools img{
 		width: 150px;
 	}
+
+	ul.major-icons {
+				list-style: none;
+				padding-left: 0;
+				display: flex;
+			}
+	ul.major-icons li{
+				font-size: 3em;
+			}
