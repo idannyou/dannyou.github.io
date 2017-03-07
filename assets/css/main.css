@@ -539,6 +539,17 @@
 			margin: 0 0 -1px -1.5em;
 		}
 
+		.schools img {
+			width: 100px;
+			margin-right: 70px;
+			margin-bottom: 5px;
+		}
+
+		.binghamton img {
+			width: 160px;
+			margin-right: 10px;
+		}
+
 		.row.uniform > * {
 			padding: 1.5em 0 0 1.5em;
 		}
@@ -1180,8 +1191,16 @@
 			padding: 0 0 0 1.5em;
 		}
 
+		.schools img{
+			width: 50px;
+		}
+		.binghamton img{
+			width: 80px;
+		}
+
 		.row {
-			margin: 0 0 -1px -1.5em;
+			margin-bottom: 10px;
+			font-size: 10px;
 		}
 
 		.row.uniform > * {
@@ -1989,7 +2008,6 @@
 		}
 
 	ul {
-		list-style: disc;
 		margin: 0 0 2em 0;
 		padding-left: 1em;
 	}
@@ -2474,7 +2492,6 @@
 					padding: 0 0 1em 0 ;
 					background-color: transparent !important;
 					border-top: solid 2px #fff;
-					width: 100%;
 				}
 
 					.features li:first-child {
@@ -3837,9 +3854,7 @@
 		list-style: none;
 	}
 
-	.schools img{
-		width: 100px;
-	}
+
 
 	ul.major-icons {
 				list-style: none;
