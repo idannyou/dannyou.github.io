@@ -2536,6 +2536,7 @@
 			order: 2;
 			max-width: 48em;
 			width: 60%;
+			margin-bottom: 20px;
 		}
 		.headercontent {
 			background-color: rgba(25, 0, 51, .5);
