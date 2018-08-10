@@ -3847,8 +3847,8 @@
 		margin: 0 auto;
 		margin-bottom: 10px;
 		display: block;
-		width: 250px;
-		border-radius: 50%;
+		width: 300px;
+		border-radius: 10%;
 	}
 
 	.schools{
